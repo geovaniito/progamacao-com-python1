@@ -1,0 +1,5 @@
+turma = [["Enzo", "Pietro","Ana"],
+        ["Fernando","Samuel","Carlos"],
+        ["Felipe","Pedrão", "Tiago"]]
+        
+print(turma[0][1])
